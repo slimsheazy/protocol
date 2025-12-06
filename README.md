@@ -1,2 +1,2 @@
 
-# Protocol is a minimalist AI micro-app designed to "operationalize" unstructured problems. It acts as an automated consultant that takes any task description and converts it into a strict, deterministic, three-step workflow. It specifically highlights execution bottlenecks and provides targeted optimizations.
+## Protocol is a minimalist AI micro-app designed to "operationalize" unstructured problems. It acts as an automated consultant that takes any task description and converts it into a strict, deterministic, three-step workflow. It specifically highlights execution bottlenecks and provides targeted optimizations.
